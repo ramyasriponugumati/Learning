@@ -1,2 +1,3 @@
 # Learning
-my fist learning git repository
+ This is my first learning git repository
+ author:Ramya Sri
